@@ -299,7 +299,7 @@ export default function CompetenciesPage() {
       `}</style>
       
       {/* Hero Section */}
-      <section className="py-12 lg:py-20 bg-gradient-to-r from-blue-900 to-blue-800 text-white">
+      <section className="py-12 lg:py-20 bg-gradient-to-r from-green-900 to-green-800 text-white">
         <div className="w-full px-6 lg:px-12">
           <div className="max-w-7xl mx-auto">
             <div className="flex flex-col lg:flex-row items-center justify-between gap-8">

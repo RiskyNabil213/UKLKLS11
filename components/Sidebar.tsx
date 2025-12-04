@@ -114,10 +114,7 @@ export default function Sidebar() {
             </nav>
 
             <div className="absolute bottom-0 left-0 right-0 p-6 border-t border-gray-100">
-              <button className="w-full flex items-center justify-center space-x-2 px-4 py-3 bg-gray-50 hover:bg-gray-100 rounded-lg text-gray-700 font-medium transition-all">
-                <LogOut size={18} />
-                <span>Log Out</span>
-              </button>
+            
               <div className="text-center mt-4">
                 <p className="text-sm text-gray-600 font-medium">
                   © 2025 Risky Nabil
